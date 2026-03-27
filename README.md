@@ -1,6 +1,6 @@
 <div align="center">
 
-# dopShowCaseNet
+# ShowCase .NET
 
 **Roadmap de implementação — plataforma full stack (.NET)**
 
